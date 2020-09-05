@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <circle cx="100" cy="200" r="90" stroke-width="20" stroke="black" fill="white" />
+  <line x1="100" y1="110" x2="100" y2="200" style="stroke:black;stroke-width:25" />
+
+  <circle cx="100" cy="200" r="65" stroke-width="3" fill="black" />
+  <circle cx="100" cy="200" r="45" stroke-width="3" fill="white" />
+  <circle cx="100" cy="200" r="15" stroke-width="3" fill="black" />
+  <circle cx="105" cy="195" r="5" stroke-width="3" fill="white" />
+  <path d= "M 23 246 A 91 91 0 0 0 179 243" stroke-width="23" stroke="white" fill="transparent" />
+  <circle cx="22.7" cy="246" r="10" stroke-width="3" fill="black" />
+  <circle cx="179" cy="243" r="10" stroke-width="3" fill="black" />
+</svg>
